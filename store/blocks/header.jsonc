@@ -8,13 +8,15 @@
 
   "header-layout.desktop": {
     "children": [
-      "header-row#main"
+      "header-row#main",
+      "header-row#notification"
     ]
   },
 
   "header-layout.mobile": {
     "children": [
-      "header-row#main-mobile"
+      "header-row#main-mobile",
+      "header-row#notification"
     ]
   },
 
